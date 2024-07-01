@@ -5,3 +5,16 @@
     top: 0;
     left: 0;
 }
+
+.numbers {
+    display: flex;
+    flex direction: row-reverse;
+    justify content: space-around;
+    align items: flex-end;
+    flex-wrap: wrap;
+}
+
+div {
+    margin-left: 50px;
+    margin-right: 50px;
+}
